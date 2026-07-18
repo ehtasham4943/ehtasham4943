@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 170" width="700" height="170">
+  <defs><clipPath id="trophRound"><rect width="700" height="170" rx="18"/></clipPath></defs>
+  <g clip-path="url(#trophRound)">
+    <rect width="700" height="170" fill="#1a0b2e"/>
+    <g transform="translate(10,0)"><g transform="translate(0,0) scale(0.7)" opacity="0" style="transform-origin:64.0px 75px">
+    <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.3,0.3;1,1" begin="0.30s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 1.4 0.4 1"/>
+    <rect x="0" y="10" width="128" height="150" rx="14" fill="#ffffff10" stroke="#ffffff22"/>
+    <circle cx="64.0" cy="60" r="26" fill="none" stroke="#ff5fb0" stroke-width="4"/>
+    <text x="64.0" y="68" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#ff5fb0">S</text>
+    <text x="64.0" y="110" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#f6e9ff">Commit Streak</text>
+    <rect x="0" y="10" width="40" height="150" fill="#ffffff" opacity="0.12" transform="skewX(-20)">
+      <animate attributeName="x" from="-60" to="188" begin="1.50s" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+<g transform="translate(136,0) scale(0.7)" opacity="0" style="transform-origin:200.0px 75px">
+    <animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.3,0.3;1,1" begin="0.48s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 1.4 0.4 1"/>
+    <rect x="136" y="10" width="128" height="150" rx="14" fill="#ffffff10" stroke="#ffffff22"/>
+    <circle cx="200.0" cy="60" r="26" fill="none" stroke="#8b3fd1" stroke-width="4"/>
+    <text x="200.0" y="68" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#8b3fd1">A</text>
+    <text x="200.0" y="110" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#f6e9ff">Repositories</text>
+    <rect x="136" y="10" width="40" height="150" fill="#ffffff" opacity="0.12" transform="skewX(-20)">
+      <animate attributeName="x" from="76" to="324" begin="1.68s" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+<g transform="translate(272,0) scale(0.7)" opacity="0" style="transform-origin:336.0px 75px">
+    <animate attributeName="opacity" from="0" to="1" begin="0.66s" dur="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.3,0.3;1,1" begin="0.66s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 1.4 0.4 1"/>
+    <rect x="272" y="10" width="128" height="150" rx="14" fill="#ffffff10" stroke="#ffffff22"/>
+    <circle cx="336.0" cy="60" r="26" fill="none" stroke="#ffb84d" stroke-width="4"/>
+    <text x="336.0" y="68" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#ffb84d">B+</text>
+    <text x="336.0" y="110" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#f6e9ff">Stars</text>
+    <rect x="272" y="10" width="40" height="150" fill="#ffffff" opacity="0.12" transform="skewX(-20)">
+      <animate attributeName="x" from="212" to="460" begin="1.86s" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+<g transform="translate(408,0) scale(0.7)" opacity="0" style="transform-origin:472.0px 75px">
+    <animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.3,0.3;1,1" begin="0.84s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 1.4 0.4 1"/>
+    <rect x="408" y="10" width="128" height="150" rx="14" fill="#ffffff10" stroke="#ffffff22"/>
+    <circle cx="472.0" cy="60" r="26" fill="none" stroke="#4dd0e1" stroke-width="4"/>
+    <text x="472.0" y="68" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#4dd0e1">B</text>
+    <text x="472.0" y="110" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#f6e9ff">Followers</text>
+    <rect x="408" y="10" width="40" height="150" fill="#ffffff" opacity="0.12" transform="skewX(-20)">
+      <animate attributeName="x" from="348" to="596" begin="2.04s" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+<g transform="translate(544,0) scale(0.7)" opacity="0" style="transform-origin:608.0px 75px">
+    <animate attributeName="opacity" from="0" to="1" begin="1.02s" dur="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="0.3,0.3;1,1" begin="1.02s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 1.4 0.4 1"/>
+    <rect x="544" y="10" width="128" height="150" rx="14" fill="#ffffff10" stroke="#ffffff22"/>
+    <circle cx="608.0" cy="60" r="26" fill="none" stroke="#8affa0" stroke-width="4"/>
+    <text x="608.0" y="68" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#8affa0">A-</text>
+    <text x="608.0" y="110" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#f6e9ff">Pull Requests</text>
+    <rect x="544" y="10" width="40" height="150" fill="#ffffff" opacity="0.12" transform="skewX(-20)">
+      <animate attributeName="x" from="484" to="732" begin="2.22s" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+  </g></g>
+  </g>
+</svg>
